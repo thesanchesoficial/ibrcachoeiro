@@ -10,6 +10,8 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:ibrcachoeiro/view/celulas/celulas.dart';
 import 'package:ibrcachoeiro/view/inicio/inicio.dart';
 
+// passar para arquitetura limpa
+
 void main() =>
   runApp(MaterialApp(
     color: COR_PRIMARIA,
